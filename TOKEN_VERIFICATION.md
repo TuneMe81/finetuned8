@@ -2,10 +2,10 @@
 
 ## Contract Addresses
 
-### Contract 1: Primary Token
+### Contract 1: NEW AGE TIME Token
 `0x2f3b7f2bdecb2414c004051195dabe3b8a359a01`
 
-### Contract 2: NEW AGE TIME Token
+### Contract 2: Finetuned8 Contract
 `0x1c157faf68cf513fc8f881669061a5cc0dace38c`
 
 ## Issue Details
@@ -60,7 +60,7 @@ Signature Algorithm: EIP-191 (personal_sign)
 - [x] Correct checksum (if applicable)
 - [ ] Address exists on blockchain
 
-### Contract 1 Verification (0x2f3b7f2bdecb2414c004051195dabe3b8a359a01)
+### Contract 1 Verification (0x2f3b7f2bdecb2414c004051195dabe3b8a359a01) - NEW AGE TIME
 **Ethereum:**
 - [ ] Contract deployed on Ethereum mainnet
 - [ ] Verify contract source code on Etherscan
@@ -76,7 +76,7 @@ Signature Algorithm: EIP-191 (personal_sign)
 - [ ] Validate token standard
 - [ ] Confirm owner address
 
-### Contract 2 Verification (0x1c157faf68cf513fc8f881669061a5cc0dace38c) - NEW AGE TIME
+### Contract 2 Verification (0x1c157faf68cf513fc8f881669061a5cc0dace38c) - Finetuned8
 **Ethereum:**
 - [ ] Contract deployed on Ethereum mainnet
 - [ ] Verify contract source code on Etherscan
@@ -112,7 +112,7 @@ Signature Algorithm: EIP-191 (personal_sign)
 
 ## Explorer Links
 
-### Contract 1: 0x2f3b7f2bdecb2414c004051195dabe3b8a359a01
+### Contract 1: 0x2f3b7f2bdecb2414c004051195dabe3b8a359a01 (NEW AGE TIME)
 
 **Ethereum:**
 - Contract Explorer: https://etherscan.io/address/0x2f3b7f2bdecb2414c004051195dabe3b8a359a01
@@ -122,7 +122,7 @@ Signature Algorithm: EIP-191 (personal_sign)
 - Contract Explorer: https://basescan.org/address/0x2f3b7f2bdecb2414c004051195dabe3b8a359a01
 - Token Tracker: https://basescan.org/token/0x2f3b7f2bdecb2414c004051195dabe3b8a359a01
 
-### Contract 2: 0x1c157faf68cf513fc8f881669061a5cc0dace38c (NEW AGE TIME)
+### Contract 2: 0x1c157faf68cf513fc8f881669061a5cc0dace38c (Finetuned8)
 
 **Ethereum:**
 - Contract Explorer: https://etherscan.io/address/0x1c157faf68cf513fc8f881669061a5cc0dace38c
